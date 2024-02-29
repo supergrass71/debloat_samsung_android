@@ -1,5 +1,14 @@
 # OneUI Debloat Script
 
+## What this does
+
+1. Removes Samsung bundleware / crapware from your phone
+2. If all procedures are done, speeds it up considerably (UI interactions, boot up time)
+3. Note that even light debloat may remove some of your wanted features - I am currently working to identify what each removed thing does on the modified light debloat
+
+## What this doesn't do
+1. Improve battery life..... you may have to charge it more! (Exynos user)
+
 ## How to use Script: 
 Just download the latest release, extract the zip file and run the script. To run the script, connect phone to PC through ADB.
 
