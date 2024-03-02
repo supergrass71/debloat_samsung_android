@@ -4,7 +4,7 @@
 
 1. Removes Samsung bundleware / crapware from your phone
 2. If all procedures are done, speeds it up considerably (UI interactions, boot up time)
-3. Note that even light debloat may remove some of your wanted features - I am currently working to identify what each removed thing does on the modified light debloat
+3. Note that even light debloat may remove some of your wanted features - my personal choices are reflected in Light_debloat_mod.bat, it also contains descriptions for all but the most obvious packages
 
 ## What this doesn't do
 1. Improve battery life..... you may have to charge it more! (Exynos user)
@@ -38,9 +38,6 @@ Example-
 ~~~
 adb shell cmd package install-existing com.sec.android.app.samsungapps
 ~~~
-
-## Note:
-Open an issue here or connect me over Telegram if you need help!
 
 ## Visible System Apps (OneUI Core 4.1 - INS Firmware on Samsung M21)
 <img src="1.jpg" width="200"/>  <img src="2.jpg" width="200"/>
