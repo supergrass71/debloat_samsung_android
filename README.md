@@ -49,4 +49,5 @@ adb shell cmd package install-existing com.sec.android.app.samsungapps
 <img src="4.jpg" width="200"/>
 
 ## Credits:
-Samsung for adding them and me for removing them :)
+Thanks to invinciblevenom for the original script
+I added descriptions for just about everything in my light debloat mod script, so check in there if you miss something after running one of the others!
