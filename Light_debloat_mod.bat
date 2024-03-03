@@ -1,5 +1,5 @@
 @echo off
-@echo Light Debloater Script by invinciblevenom, mod by Müz
+@echo Light Debloater Script by invinciblevenom, mod by Mï¿½z
 @echo =============================================
 echo. %= Descriptions | www.minitool.com/news/list-of-samsung-bloatware-safe-to-remove.html =%
 echo. %=  see also | www.alliancex.org/shield/apps.html =%
@@ -98,7 +98,7 @@ adb shell pm uninstall --user 0 com.samsung.discover %= Samsung Discover app =%
 adb shell pm uninstall --user 0 com.samsung.gpuwatchapp %= Developer tool for GPU =%
 rem adb shell pm uninstall --user 0 com.samsung.klmsagent %=Key Management Service Agent =%
 adb shell pm uninstall --user 0 com.samsung.memorysaver %= Samsung Storage Saver =%
-rem adb shell pm uninstall --user 0 com.samsung.sec.android.application.csc %= Consumer Software Customization” or “Country Specific Code“, apn settings etc =%
+rem adb shell pm uninstall --user 0 com.samsung.sec.android.application.csc %= Consumer Software Customizationï¿½ or ï¿½Country Specific Codeï¿½, apn settings etc =%
 adb shell pm uninstall --user 0 com.samsung.SMT %= Samsung speech to text =%
 rem adb shell pm uninstall --user 0 com.samsung.storyservice %=Provide stories for the gallery app, can already be disabled trough the gallery app settings, no need to use ADB =%
 rem adb shell pm uninstall --user 0 com.sec.android.app.billing %= This is used when making payment in Samsung's apps, expect bugs if you uninstall it =%
@@ -108,7 +108,7 @@ adb shell pm uninstall --user 0 com.sec.android.app.magnifier %= Magnifier =%
 adb shell pm uninstall --user 0 com.sec.android.app.quicktool %= Tools Edge Panel =%
 adb shell pm uninstall --user 0 com.sec.android.app.samsungapps %= Galaxy Store =%
 adb shell pm uninstall --user 0 com.sec.android.autodoodle.service %= Photo editing tool from Gallery =%
-adb shell pm uninstall --user 0 com.sec.android.daemonapp %= Samsung Weather =%
+rem adb shell pm uninstall --user 0 com.sec.android.daemonapp %= Samsung Weather =%
 adb shell pm uninstall --user 0 com.sec.android.easyMover.Agent %= Samsung Smart Switch =%
 adb shell pm uninstall --user 0 com.sec.android.easyonehand %= One hand mode =%
 adb shell pm uninstall --user 0 com.sec.android.mimage.avatarstickers %= Samsung AR emoji stickers%
